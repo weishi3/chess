@@ -1,0 +1,14 @@
+//operations to do:
+
+
+1.Move red pawn from (2,1) to (2,3)
+2.advance black pawn to (3,6) to (3,4)
+3.red pawn capture black so red pawn is in (3,4) now 
+4.black queen capture red pawn so black queen is in (3,4)
+5.red pawn advance from (4,1) to (4,3)
+6.black queen move from (3,4) to (2,5)
+7.red king advance by 1 (4,0) to (4,1)
+8.black queen capture red pawn and check the red king
+ 
+CHECKMATE! AND black wins.
+ 
